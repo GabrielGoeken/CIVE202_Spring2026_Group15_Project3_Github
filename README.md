@@ -7,8 +7,6 @@ The purpose of this project is we are transforming complex datasets into useful,
 
   [Gantt Chart](CIVE202_Spring2026_Group15_Project3_GanttChart.xlsx)
   
-  [NDOT Mix Sheet](CIVE202_Spring2026_Group15_Project3_TransportationC.xlsx)
-  
   [Python Code](CIVE202_Spring2026_Group15_Project3_Code.ipynb)
   
   [Scope of Work](CIVE202_Spring2026_Group15_Project3_SOW.docx)
